@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">practica hallowen</string>
+    <string name="buttonsustos">SUSTOS</string>
+    <string name="baño_acido">Baño acido</string>
+    <string name="sonido_animales">Sonido animales</string>
+    <string name="murcielago">Murcielago</string>
+    <string name="abejas">Abejas</string>
+    <string name="campana">Campana</string>
+    <string name="huesos_rompiendose">Huesos rompiendose</string>
+    <string name="respiracion">Respiracion</string>
+    <string name="burbujeante">Burbujeante</string>
+    <string name="gato">Gato</string>
+    <string name="puerta_celda">Puerta de celda</string>
+    <string name="buttonexit">SALIR</string>
+    <string name="buttonpausa">PAUSA</string>
+    <string name="otropausa">Pausa</string>
+
+</resources>

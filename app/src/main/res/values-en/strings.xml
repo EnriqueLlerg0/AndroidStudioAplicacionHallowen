@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">halloween practice</string>
+    <string name="buttonsustos">SCARE</string>
+    <string name="baño_acido">Acid bath</string>
+    <string name="sonido_animales">Animal Sounds</string>
+    <string name="murcielago">Bats</string>
+    <string name="abejas">Bees</string>
+    <string name="campana">Bell toll</string>
+    <string name="huesos_rompiendose">Bones breaking</string>
+    <string name="respiracion">Breathing</string>
+    <string name="burbujeante">Bubbling</string>
+    <string name="gato">Cat</string>
+    <string name="puerta_celda">Cell door</string>
+    <string name="buttonexit">EXIT</string>
+    <string name="buttonpausa">PAUSE</string>
+    <string name="otropausa">PAUSE</string>
+
+</resources>
